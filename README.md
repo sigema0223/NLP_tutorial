@@ -1,6 +1,6 @@
 # NLP_Tutorial
 
-**Self studying NLP**</main>**
+**Self studying NLP**
 
 Jupyter Notebook Shortcuts
 - A : Insert cell above
